@@ -1,4 +1,7 @@
-![Alt Text](https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj)
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj" alt="Alt Text" style="border-radius: 50%; width: 200px;">
+</p>
+
 
 
 **Welcome to My Portfolio Project! 🚀**
