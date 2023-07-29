@@ -1,4 +1,5 @@
-![Alt Text](path/to/https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj)
+![Alt Text](https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj)
+
 
 **Welcome to My Portfolio Project! 🚀**
 
