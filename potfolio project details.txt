@@ -24,3 +24,25 @@ git add .
 git commit -m "Navbar Compleated"
 git checkout -b navbar
 git push -u origin navbar
+
+
+
+
+
+
+
+
+
+<div class="bg-image hover-overlay">
+  <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/053.webp" class="w-100" />
+  <div
+    class="mask"
+    style="
+      background: linear-gradient(
+        45deg,
+        hsla(168, 85%, 52%, 0.5),
+        hsla(263, 88%, 45%, 0.5) 100%
+      );
+    "
+  ></div>
+</div>
