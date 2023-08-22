@@ -1,0 +1,26 @@
+npx create-react-app tdmaxerpotfolio
+
+git init
+git add .
+git commit -m "Project Setup"
+git log
+git status
+
+git remote add origin https://github.com/IT21166006/Crispcrops_Website.git
+git remote set-url origin https://github.com/IT21166006/Crispcrops_Website.git
+git push -u origin master
+
+
+rafce=new js template
+
+
+
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj" alt="Alt Text" style="border-radius: 50%; width: 200px;">
+</p>
+
+//alwayes commet like this
+git add .
+git commit -m "Navbar Compleated"
+git checkout -b navbar
+git push -u origin navbar
