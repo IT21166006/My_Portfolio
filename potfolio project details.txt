@@ -6,8 +6,8 @@ git commit -m "Project Setup"
 git log
 git status
 
-git remote add origin https://github.com/IT21166006/Crispcrops_Website.git
-git remote set-url origin https://github.com/IT21166006/Crispcrops_Website.git
+git remote add origin https://github.com/IT21166006/My_Portfolio.git
+git remote set-url origin https://github.com/IT21166006/My_Portfolio.git
 git push -u origin master
 
 
@@ -46,3 +46,5 @@ git push -u origin navbar
     "
   ></div>
 </div>
+
+<a href="mailto:lasarunilhan18@gmail.com" data-hover="Let's talk!" class="sc-bqiRlB brYigI">Need a developer?</a>
