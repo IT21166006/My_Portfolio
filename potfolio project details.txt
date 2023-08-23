@@ -1,0 +1,50 @@
+npx create-react-app tdmaxerpotfolio
+
+git init
+git add .
+git commit -m "Project Setup"
+git log
+git status
+
+git remote add origin https://github.com/IT21166006/My_Portfolio.git
+git remote set-url origin https://github.com/IT21166006/My_Portfolio.git
+git push -u origin master
+
+
+rafce=new js template
+
+
+
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/awcM6XkIwVXOAxe3rsoKuuVnKBDkWU8ERc0SQELWLln_MeueImvbpjyT35IDq_BBIdCX1bowpg=s900-c-k-c0x00ffffff-no-rj" alt="Alt Text" style="border-radius: 50%; width: 200px;">
+</p>
+
+//alwayes commet like this
+git add .
+git commit -m "Navbar Compleated"
+git checkout -b navbar
+git push -u origin navbar
+
+
+
+
+
+
+
+
+
+<div class="bg-image hover-overlay">
+  <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/053.webp" class="w-100" />
+  <div
+    class="mask"
+    style="
+      background: linear-gradient(
+        45deg,
+        hsla(168, 85%, 52%, 0.5),
+        hsla(263, 88%, 45%, 0.5) 100%
+      );
+    "
+  ></div>
+</div>
+
+<a href="mailto:lasarunilhan18@gmail.com" data-hover="Let's talk!" class="sc-bqiRlB brYigI">Need a developer?</a>
